@@ -6,9 +6,11 @@
 // Modified from provided code.js file of "sum" 3020 Exercise.
 
 
-function sum(a) {
+function sum(a) 
+{
     var sum = 0;
-    for(var i = 0; i < a.length; i++) {
+    for(var i = 0; i < a.length; i++) 
+    {
         sum += a[i];
     }
     return sum;
