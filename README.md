@@ -4,6 +4,12 @@ The program to compute the sum of a list of numbers in `code.js` is incorrect
 (and the tests in `code.test.js` are failing). Correct the code such that it
 passes the tests.
 
+//
+
+Name: Kane Kriz
+
+28 January 2025
+Final Edits 10 Feb 2025
 
 I certify that I have listed all sources used to complete this exercise, including the use
 of any Large Language Models. All of the work is my own, except where stated
